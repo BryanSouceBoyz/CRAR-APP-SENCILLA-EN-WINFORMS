@@ -1,0 +1,16 @@
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\bin\Debug\net8.0-windows\Aplicacion Sencilla.exe
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\bin\Debug\net8.0-windows\Aplicacion Sencilla.deps.json
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\bin\Debug\net8.0-windows\Aplicacion Sencilla.runtimeconfig.json
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\bin\Debug\net8.0-windows\Aplicacion Sencilla.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\bin\Debug\net8.0-windows\Aplicacion Sencilla.pdb
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion_Sencilla.Form1.resources
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion Sencilla.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion Sencilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion Sencilla.AssemblyInfoInputs.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion Sencilla.AssemblyInfo.cs
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion Sencilla.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion Sencilla.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\refint\Aplicacion Sencilla.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion Sencilla.pdb
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\Aplicacion Sencilla.genruntimeconfig.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\Aplicacion Sencilla\Aplicacion Sencilla\obj\Debug\net8.0-windows\ref\Aplicacion Sencilla.dll
